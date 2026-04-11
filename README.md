@@ -29,7 +29,7 @@ JsonLang is designed to be extendable. You can define new rules with sync/async 
 ## ⏬ **Installation**
 
 ```bash
-npm install jsonlang-js
+npm install @jsonlang/core
 ```
 </br> 
 
